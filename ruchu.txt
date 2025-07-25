@@ -1,3 +1,7 @@
 "ruchu"
 "this is second line"
+<<<<<<< HEAD
 "rfghtyujkjnhb"
+=======
+"this is third line"
+>>>>>>> 801d162 (savind my changes)
